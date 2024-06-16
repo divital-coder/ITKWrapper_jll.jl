@@ -1,0 +1,110 @@
+[[ITKWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4714003bfe674a9f0414dcc0e3b2c145508f1955"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ITKWrapper.download]]
+    sha256 = "99cec02f9836730d61d839d0c4d681d573a9e14ae950ed6d3a9eefb0a257cc95"
+    url = "https://github.com/divital-coder/ITKWrapper_jll.jl/releases/download/ITKWrapper-v1.0.0+0/ITKWrapper.v1.0.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[ITKWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cdbd9c6d588de91babb874b00732117ef2f3f0a1"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[ITKWrapper.download]]
+    sha256 = "14d9c9745f1442025f2586dbd6504776d196c1f7650f45e25f535780a507ad08"
+    url = "https://github.com/divital-coder/ITKWrapper_jll.jl/releases/download/ITKWrapper-v1.0.0+0/ITKWrapper.v1.0.0.x86_64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+[[ITKWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a3839703ef18b91c8a732930a21d8fc9d691fd1b"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[ITKWrapper.download]]
+    sha256 = "dff462029011cf4a4e5d042a32493ec319663e7a90eb64fafbdd2254dc8d7248"
+    url = "https://github.com/divital-coder/ITKWrapper_jll.jl/releases/download/ITKWrapper-v1.0.0+0/ITKWrapper.v1.0.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+[[ITKWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e9315a364e6ac4c7c053fab8850e60a463a92c12"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[ITKWrapper.download]]
+    sha256 = "a98b62515be7e23f89bcb47e3bbde978de28c2996af63d5689048274c0faa9ff"
+    url = "https://github.com/divital-coder/ITKWrapper_jll.jl/releases/download/ITKWrapper-v1.0.0+0/ITKWrapper.v1.0.0.x86_64-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+[[ITKWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1cc972147f83b99994b959a4fe13fc79376ce806"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[ITKWrapper.download]]
+    sha256 = "6c91da79fcbbfd514a683aff6259b381ab3fdb74fdcc8bac3c4a8596e8248b44"
+    url = "https://github.com/divital-coder/ITKWrapper_jll.jl/releases/download/ITKWrapper-v1.0.0+0/ITKWrapper.v1.0.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[ITKWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4dabfa1a68d8de44afb56280c1e9f5c91743edcc"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ITKWrapper.download]]
+    sha256 = "e1c93ef78a01df20a107da6984775f03c017aa11f8cfb9479178167c7f1f0f93"
+    url = "https://github.com/divital-coder/ITKWrapper_jll.jl/releases/download/ITKWrapper-v1.0.0+0/ITKWrapper.v1.0.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[ITKWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f0d286347a70dec9f1d1a409ecec50edf7080438"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[ITKWrapper.download]]
+    sha256 = "4e25c69643b16f5fa21e6abac1ecfdf663706fc5806039095e64d632a3f5ef9a"
+    url = "https://github.com/divital-coder/ITKWrapper_jll.jl/releases/download/ITKWrapper-v1.0.0+0/ITKWrapper.v1.0.0.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[ITKWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1a2add0e68a3c440b86598c6746b1c3ae6c52ec6"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[ITKWrapper.download]]
+    sha256 = "a27c40bdbe1fef5ba785c5b971bcfa5a8712206d44a50e8e72a7e966ea3d769e"
+    url = "https://github.com/divital-coder/ITKWrapper_jll.jl/releases/download/ITKWrapper-v1.0.0+0/ITKWrapper.v1.0.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[ITKWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "039fed0a150533be820e80e41ec6eac4d0a91e15"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[ITKWrapper.download]]
+    sha256 = "829f7867d11513e570c7cb5d624a34d43c67400d33265fecb84dc0591579ff0b"
+    url = "https://github.com/divital-coder/ITKWrapper_jll.jl/releases/download/ITKWrapper-v1.0.0+0/ITKWrapper.v1.0.0.x86_64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+[[ITKWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "eb13a266a82dbaa9efec33a13c1c4909f57c71ee"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[ITKWrapper.download]]
+    sha256 = "943e97943ba5f3e1599275b20794866cdac9a794039ffbfff15422f5efee7aca"
+    url = "https://github.com/divital-coder/ITKWrapper_jll.jl/releases/download/ITKWrapper-v1.0.0+0/ITKWrapper.v1.0.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
